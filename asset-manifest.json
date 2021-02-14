@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-practice-forms/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-practice-forms/static/js/main.401e41ee.chunk.js",
+    "main.js.map": "/react-practice-forms/static/js/main.401e41ee.chunk.js.map",
+    "runtime-main.js": "/react-practice-forms/static/js/runtime-main.f21da766.js",
+    "runtime-main.js.map": "/react-practice-forms/static/js/runtime-main.f21da766.js.map",
+    "static/js/2.4087e2e1.chunk.js": "/react-practice-forms/static/js/2.4087e2e1.chunk.js",
+    "static/js/2.4087e2e1.chunk.js.map": "/react-practice-forms/static/js/2.4087e2e1.chunk.js.map",
+    "static/js/3.58dae1de.chunk.js": "/react-practice-forms/static/js/3.58dae1de.chunk.js",
+    "static/js/3.58dae1de.chunk.js.map": "/react-practice-forms/static/js/3.58dae1de.chunk.js.map",
+    "index.html": "/react-practice-forms/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-practice-forms/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4087e2e1.chunk.js.LICENSE.txt": "/react-practice-forms/static/js/2.4087e2e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f21da766.js",
+    "static/js/2.4087e2e1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.401e41ee.chunk.js"
+  ]
+}
